@@ -342,13 +342,13 @@ float: left;
 
 .port-hover{
 	text-align: center;
-	width: 96%;
-	height: 98%;
+	width: 106%;
+	height: 100%;
 	position: absolute;
 	top: 0%;
 	left: 0%;
 	background: rgb(29,156,236, .7);
-	display: none; 
+	display: none;
 }
 .port-hover ul{
 	display: block;
